@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vihanga Deshan</h1>
-<h3 align="center">A Qualified and dynamic IT Infrastructure professional with over 4 years of experience in Network Administration, Windows 7, Microsoft Server Platforms, System Administration, and Servers.</h3>
+<h3 align="center">A Qualified and dynamic IT Infrastructure professional with over 3 years of IT Administration, Networking and infrastructure products such as VMware, Window Server (Active Directory).</h3>
 
 <p align="left"> <a href="https://twitter.com/deshanonline" target="blank"><img src="https://img.shields.io/twitter/follow/deshanonline?logo=twitter&style=for-the-badge" alt="deshanonline" /></a> </p>
 
